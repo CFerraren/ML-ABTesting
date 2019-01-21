@@ -42,6 +42,9 @@
 > Example: Hypothesis Testing - judging on p=values
 
 
+
+
+
 ### Why we used Bayesian Approach
 
 - Uses a prior probability 
